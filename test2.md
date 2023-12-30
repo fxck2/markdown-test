@@ -11,7 +11,7 @@
 ^上標^  
 ~下標~  
 ++underlined text++  
-==u/6==
+==u/6==  
 :::success
 耶 :tada:
 :::
